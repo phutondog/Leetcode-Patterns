@@ -3,7 +3,7 @@
 
 
 
-#[Tips and Tricks]
+# [Tips and Tricks]
 If input array is sorted then
 - Binary search
 - Two pointers
